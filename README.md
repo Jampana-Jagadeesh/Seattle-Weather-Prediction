@@ -1,5 +1,7 @@
 # Seattle Weather Prediction Project
 
+[Google Colab File](https://colab.research.google.com/drive/18gpdE-45XwCFL71IjQ6cuLRvgUFvL3ef?usp=sharing)
+
 ## Overview
 
 This project aims to analyze and predict weather patterns in Seattle using machine learning techniques. The dataset used in this project contains information about various weather parameters, such as precipitation, temperature, and wind, collected over a period of time.
@@ -41,5 +43,6 @@ A variety of machine learning models are compared, including Logistic Regression
 ## Model Usage
 
 The trained Gradient Boosting Classifier is used to predict the weather condition based on user input for precipitation, maximum temperature, minimum temperature, and wind speed.
+
 
 
